@@ -12,7 +12,6 @@ This Python project scrapes captions from YouTube videos related to a selected s
 - [Requirements](#requirements)
 - [API Key Setup](#api-key-setup)
 - [Example](#example)
-- [Credits](#credits)
 
 ## Features
 
