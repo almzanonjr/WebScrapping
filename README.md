@@ -99,4 +99,4 @@ The script will output a CSV file named `elon_musk_videos_with_captions.csv` con
 - **youtube-transcript-api**: For facilitating the retrieval of video captions.
 - **Pandas**: For data manipulation and CSV handling.
 
-This project was created to demonstrate how to combine multiple APIs to scrape and analyze online content, specifically focusing on video metadata and captions from YouTube.
+This project was created to demonstrate how to use an API to scrape and analyze online content, specifically focusing on video metadata and captions from YouTube.
