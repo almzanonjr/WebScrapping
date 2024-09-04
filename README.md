@@ -26,8 +26,8 @@ This Python project was created as the Lesson 2 assignment for the A-I 574 Natur
 
 1. **Create and activate a new conda environment**:
    ```bash
-   conda create --name youtube-scraper-env python=3.10
-   conda activate youtube-scraper-env
+   conda create --name WebScrapping python=3.10
+   conda activate WebScrapping
    ```
 
 2. **Install the required dependencies**:
@@ -39,8 +39,8 @@ This Python project was created as the Lesson 2 assignment for the A-I 574 Natur
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/youtube-captions-scraper.git
-    cd youtube-captions-scraper
+    git clone https://github.com/yourusername/WebScrapping.git
+    cd WebScrapping
     ```
 
 2. Install the required Python packages:
@@ -77,7 +77,7 @@ This Python project was created as the Lesson 2 assignment for the A-I 574 Natur
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10 or above
 - `google-api-python-client`: To interact with the YouTube Data API.
 - `youtube-transcript-api`: To fetch captions from YouTube videos.
 - `pandas`: For data manipulation and saving the data to a CSV file.
