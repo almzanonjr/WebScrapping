@@ -1,7 +1,7 @@
 
 # YouTube Video Captions Scraper
 
-This Python project scrapes captions from YouTube videos related to a selected subject, published in the last 24 hours. The script uses the YouTube Data API v3 to search for videos and the `youtube_transcript_api` library to fetch video captions. The resulting data, including video details and captions, is saved to a CSV file.
+This Python project was created as an assignment for the A-I 574 Natural language Processing at Penn State University. It scrapes captions from YouTube videos related to a selected subject, published in the last 24 hours. The script uses the YouTube Data API v3 to search for videos and the `youtube_transcript_api` library to fetch video captions. The resulting data, including video details and captions, is saved to a CSV file.
 
 ## Table of Contents
 
