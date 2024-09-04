@@ -21,7 +21,20 @@ This Python project scrapes captions from YouTube videos related to a selected s
 - Retrieve captions (if available) for each video.
 - Save the collected data to a CSV file for further analysis.
 
+
 ## Installation
+
+1. **Create and activate a new conda environment**:
+   ```bash
+   conda create --name youtube-scraper-env python=3.9
+   conda activate youtube-scraper-env
+   ```
+
+2. **Install the required dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 
 1. Clone the repository:
 
