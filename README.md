@@ -26,7 +26,7 @@ This Python project was created as the Lesson 2 assignment for the A-I 574 Natur
 
 1. **Create and activate a new conda environment**:
    ```bash
-   conda create --name youtube-scraper-env python=3.9
+   conda create --name youtube-scraper-env python=3.10
    conda activate youtube-scraper-env
    ```
 
