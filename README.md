@@ -12,7 +12,6 @@ This Python project was created as the Lesson 2 assignment for the A-I 574 Natur
 - [Requirements](#requirements)
 - [API Key Setup](#api-key-setup)
 - [Example](#example)
-- [Credits](#credits)
 
 ## Features
 
